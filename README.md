@@ -30,5 +30,11 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
+```
 
+
+## Data Outputs
+![alt text](https://github.com/jakerothstein/Predicting-Operational-Risk-/blob/main/risk_heatmap.png)
+![alt text](https://github.com/jakerothstein/Predicting-Operational-Risk-/blob/main/cybersecurity_risk_over_time.png)
+![alt text](https://github.com/jakerothstein/Predicting-Operational-Risk-/blob/main/risk_distribution_by_industry.png)
 
